@@ -29,6 +29,7 @@ pipeline {
                 echo 'completed this simple java maven app!!!'
                 echo 'This looks pretty cool!'
                 echo 'succesfully built .jar app & ran it'
+                echo 'I have added new feature - 123'
             }
         }
         
