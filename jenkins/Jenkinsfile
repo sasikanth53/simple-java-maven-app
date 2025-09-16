@@ -28,7 +28,7 @@ pipeline {
             steps {
                 echo 'completed this simple java maven app!!!'
                 echo 'This looks pretty cool!'
-                echo 'succesfully built .jar app & ran it using the java -jar <filename> command'
+                echo 'succesfully built .jar app & ran it using the java -jar <filename> command !!'
             }
         }
         
